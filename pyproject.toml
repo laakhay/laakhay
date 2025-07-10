@@ -7,9 +7,9 @@ requires = [
 build-backend = "setuptools.build_meta"
 
 [project]
-name            = "laakhay"
-dynamic         = ["version"]
-description     = "Meta-package for the Laakhay opensource ecosystem"
+name = "laakhay"
+dynamic = ["version"]
+description = "Laakhay - Brand wrapper for Laakhay Open Source Wings"
 requires-python = ">=3.8"
 authors = [
   { name = "Laakhay", email = "laakhay.corp@gmail.com" }
